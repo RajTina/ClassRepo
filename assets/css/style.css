@@ -6,12 +6,13 @@ body{
 
 h1{
     /* text-align: center; */
-    color: brown;
+    color:skyblue;
+    /* color: brown; */
 }
 
 p{
     /* text-align: center; */
-    color: brown;
+    color:skyblue;
     font-weight: bold;
     font-size: 20px;
     
