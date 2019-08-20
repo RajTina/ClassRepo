@@ -1,0 +1,19 @@
+body{
+    background: url(../images/45eb9fa2206d6b26d5109d09c97bb755_original.png);
+    /* background-repeat: no-repeat;
+    background-size: cover; */
+}
+
+h1{
+    /* text-align: center; */
+    color: brown;
+}
+
+p{
+    /* text-align: center; */
+    color: brown;
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+
